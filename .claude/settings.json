@@ -1,0 +1,36 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-mods": {
+      "source": {
+        "source": "github",
+        "repo": "LoodsPJ/claude-mods"
+      }
+    },
+    "claude-kit": {
+      "source": {
+        "source": "github",
+        "repo": "JohnnyVizz/claude-kit"
+      }
+    },
+    "hellosverre-mods": {
+      "source": {
+        "source": "github",
+        "repo": "hellosverre/claude-skins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "werkregels@claude-mods": true,
+    "inhoudsregels@claude-mods": true,
+    "cloudflare-valkuilen@claude-mods": true,
+    "nieuw-project@claude-mods": true,
+    "werkstromen@claude-mods": true,
+    "besluiten@claude-mods": true,
+    "geheimenfilter@claude-mods": true,
+    "kwaliteitspoort@claude-mods": true,
+    "onderweg@claude-mods": true,
+    "savvy-progress@claude-kit": true,
+    "skins@hellosverre-mods": true,
+    "cc-plugin-you-should-know@builtin": true
+  }
+}
